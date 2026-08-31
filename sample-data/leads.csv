@@ -1,0 +1,11 @@
+company,website,industry,location,revenue,employees,contactName,email,phone,linkedin
+NimbusFlow,https://nimbusflow.example,SaaS,"Austin, Texas",12000000,85,Amanda Reed,amanda@nimbusflow.example,+1-555-0101,https://linkedin.com/in/amanda-reed
+CloudAxis,https://cloudaxis.example,IT Services,"Dallas, Texas",24000000,150,Michael Scott,michael@cloudaxis.example,+1-555-0102,https://linkedin.com/in/michael-scott
+NovaSec,https://novasec.example,Cybersecurity,"San Diego, California",18000000,95,Sarah Chen,sarah@novasec.example,+1-555-0103,https://linkedin.com/in/sarah-chen
+BrightLedger,https://brightledger.example,FinTech,"New York, New York",9000000,60,Daniel Brooks,daniel@brightledger.example,,https://linkedin.com/in/daniel-brooks
+Peak Dental,https://peakdental.example,Healthcare,"Los Angeles, California",6000000,40,Emily Davis,invalid-email,+1-555-0105,
+MetroBuild,https://metrobuild.example,Construction,"Chicago, Illinois",40000000,220,Robert King,robert@metrobuild.example,+1-555-0106,https://linkedin.com/in/robert-king
+GreenRoute,https://greenroute.example,Logistics,"London, United Kingdom",15000000,110,Olivia Smith,olivia@greenroute.example,+44-20-5555-0107,https://linkedin.com/in/olivia-smith
+OldTown Bakery,https://oldtownbakery.example,Food,"Boston, Massachusetts",900000,8,James Miller,james@oldtownbakery.example,+1-555-0108,
+DataNest,,Software,"Austin, Texas",8000000,55,,contact@datanest.example,,
+NimbusFlow,https://nimbusflow.example,SaaS,"Austin, Texas",12000000,85,Amanda Reed,,+1-555-0101,
