@@ -11,7 +11,8 @@ SignalQueue is a time-boxed full-stack prototype built for the Caprae Capital Fu
 
 The goal is not to replace SaaSquatch or build another general-purpose scraper. The goal is to add a focused decision layer after enrichment, so a user can move from a large lead list to a defensible next action without another spreadsheet workflow.
 
-
+> **Live demo:** https://caprae-signalqueue.vercel.app  
+> **Video walkthrough:** Coming soon
 
 ## Why I built this
 
