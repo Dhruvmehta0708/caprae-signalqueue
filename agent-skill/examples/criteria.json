@@ -1,0 +1,8 @@
+{
+  "industries": ["SaaS", "Software", "IT Services", "Cybersecurity", "FinTech"],
+  "locations": ["Texas", "California", "New York"],
+  "minRevenue": 1000000,
+  "maxRevenue": 30000000,
+  "minEmployees": 10,
+  "maxEmployees": 200
+}

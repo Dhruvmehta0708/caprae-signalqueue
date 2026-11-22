@@ -1,0 +1,5 @@
+company,website,industry,location,revenue,employees,contactName,email,phone,linkedin
+CloudAxis,https://cloudaxis.example,IT Services,"Dallas, Texas",24000000,150,Michael Scott,michael@cloudaxis.example,+1-555-0102,https://linkedin.com/in/michael-scott
+CloudAxis,https://cloudaxis.example,IT Services,"Dallas, Texas",24000000,150,Michael Scott,michael@cloudaxis.example,,https://linkedin.com/in/michael-scott
+DataNest,,Software,"Austin, Texas",8000000,55,,contact@datanest.example,,
+Small Shop,https://smallshop.example,Retail,London,50000,3,,,,
